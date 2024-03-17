@@ -28,4 +28,6 @@ Unlike Support Vector Machines (SVMs) used for classification tasks, SVR seeks t
                          Decision tree regression observes features of an object and trains a model in the structure of a tree to predict data in the future to produce meaningful continuous output. Continuous output means that the output/result is not discrete, i.e., it is not represented just by a discrete, known set of numbers or values.
                          Discrete output example: A weather prediction model that predicts whether or not there’ll be rain on a particular day. 
                          Continuous output example: A profit prediction model that states the probable profit that can be generated from the sale of a product.
-            
+
+# 6)RANDOM FOREST REGRESSION:
+               Random Forest Regression is a versatile machine-learning technique for predicting numerical values. It combines the predictions of multiple decision trees to reduce overfitting and improve accuracy. Python’s machine-learning libraries make it easy to implement and optimize this approach.A random forest is an ensemble learning method that combines the predictions from multiple decision trees to produce a more accurate and stable prediction. It is a type of supervised learning algorithm that can be used for both classification and regression tasks.
